@@ -1,0 +1,15 @@
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+.pytest_cache/
+.git/
+instance/*.db
+uploads/items/*
+!uploads/items/.gitkeep
+.DS_Store
+*.egg-info/
+.vscode/
+.idea/
+ml/models/*.pkl
